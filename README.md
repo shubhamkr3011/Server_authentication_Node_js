@@ -3,13 +3,21 @@
 1. we need to run the server.js file in the Project for examining How the project works.
 2. install npm modules
 -- npm install express
+
 -- npm install -g --force nodemon
+
 -- npm install ejs
+
 -- npm install bcrypt
+
 -- npm install passport
+
 -- npm install passport-local
+
 -- npm install express-flash
+
 -- npm install express-session
+
 -- npm install dotenv
 
 ## Working
