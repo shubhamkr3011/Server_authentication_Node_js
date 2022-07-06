@@ -1,7 +1,10 @@
 # Server_authentication_Node_js
 ## Setup
+
 1. we need to run the server.js file in the Project for examining How the project works.
-2. install npm modules
+
+2. install npm modules.
+
 -- npm install express
 
 -- npm install -g --force nodemon
