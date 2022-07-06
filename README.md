@@ -2,19 +2,19 @@
 ## Setup
 1. we need to run the server.js file in the Project for examining How the project works.
 2. install npm modules
-npm install express
-npm install -g --force nodemon
-npm install ejs
-npm install bcrypt
-npm install passport
-npm install passport-local
-npm install express-flash
-npm install express-session
-npm install dotenv
+-- npm install express
+-- npm install -g --force nodemon
+-- npm install ejs
+-- npm install bcrypt
+-- npm install passport
+-- npm install passport-local
+-- npm install express-flash
+-- npm install express-session
+-- npm install dotenv
 
 ## Working
 
-3.after running command (nodemon srver.js) user will go on register page.
+3.after running command (nodemon server.js) user will go on register page.
 
 
 ![image](https://user-images.githubusercontent.com/95858496/177490567-4ec538b5-02b3-47e0-994e-7b5d43189cf1.png)
