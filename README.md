@@ -1,7 +1,7 @@
 # Server_authentication_Node_js
 ## Setup
 
-1. we need to run the server.js file in the Project for examining How the project works.
+1. we need to run the server.js by accessing my sandbox link(https://codesandbox.io/s/server-authentication-project-ongnlr) file in the Project for examining How the project works.
 
 2. install npm modules.
 
